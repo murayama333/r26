@@ -17,9 +17,22 @@
   * [日付の操作](docs/14.md)
   * [apply関数](docs/11.md)
   * [ファイルの入出力](docs/13.md)
-* Tidyverse
-
+* [Tidyverse](docs/201.md)
+    - [tibble](docs/202.md)
+    - [dplyr](docs/203.md)
+    - [ggplot2](docs/204.md)
+    - [参考：stringr](docs/207.md)
+    - [参考：purrr](docs/209.md)
+    - [参考：forcats](docs/208.md)
+    - [参考：readr](docs/205.md)
+    - [参考：tidyr](docs/206.md)
+    - [参考：Ex - Tidyverseの実践1](docs/210.md)
+    - [参考：Ex - Tidyverseの実践2](docs/211.md)
+    - [参考：Ex - Tidyverseの実践3](docs/212.md)
+    - [参考：Ex - Tidyverseの実践4](docs/213.md)
+    - [参考：lubridate](docs/214.md)
 ---
+
 
 * 記述統計
   * [データの種類](docs/101.md)
